@@ -3,6 +3,8 @@ from difflib import get_close_matches
 
 data = json.load(open("data.json"))
 
+## data.json was saved in the same directory and is a list of words and definitions
+
 def translate(w):
     w = w.lower()
     if w in data:
