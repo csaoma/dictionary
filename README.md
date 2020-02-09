@@ -1,2 +1,1 @@
-In the file data.json there is a dictonary of words. 
-Using dictionary.py you can input a word and the definition will be returned to you.
+After inputting a word the dictionary program will return with a definition of that word by taking data from the json file. 
